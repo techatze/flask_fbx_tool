@@ -10,7 +10,7 @@ This project was built to simulate real-world pipeline tools used in game develo
 
 This tool allows users to:
 
-- Browse and select `.fbx` files
+- Browse and select .fbx files
 - Submit processing jobs through a UI
 - Execute tasks asynchronously on a backend
 - Track job status in real time
@@ -92,7 +92,7 @@ Persistent storage using JSON
 
 ## Example Workflow
 
-1. Select a folder containing `.fbx` files
+1. Select a folder containing .fbx files
 2. Choose a process (Analyze / Find Meshes)
 3. Submit jobs
 4. Monitor job status in the table
